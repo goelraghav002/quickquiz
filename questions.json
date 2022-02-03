@@ -1,0 +1,130 @@
+[
+    {
+        "question": "Inside which HTML element do we put the JavaScript ??",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<stripting>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+        "choice1": "<script href='script.js'>",
+        "choice2": "<script name='script.js'>",
+        "choice3": "<script src='script.js'>",
+        "choice4": "<script file='script.js'>",
+        "answer": 3
+    },
+    {
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+    },
+    {
+        "question": "How long is an Olympic swimming pool (in meters)?",
+        "choice1": "40 meters",
+        "choice2": "50 meters",
+        "choice3": "60 meters",
+        "choice4": "70 meters",
+        "answer": 2
+    },
+    {
+        "question": "How many languages are written from right to left?",
+        "choice1": "12",
+        "choice2": "15",
+        "choice3": "No Language is written from right to left",
+        "choice4": "All Languages are written from right to left",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the biggest technology company in South Korea?",
+        "choice1": "Xiaomi",
+        "choice2": "Apple",
+        "choice3": "Samsung",
+        "choice4": "Nokia",
+        "answer": 3
+    },
+    {
+        "question": "Which animal can be seen on the Porsche logo?",
+        "choice1": "Tiger",
+        "choice2": "Elephant",
+        "choice3": "Horse",
+        "choice4": "Giraffe",
+        "answer": 3
+    },
+    {
+        "question": "What was the first country to use tanks in combat during World War-I?",
+        "choice1": "France",
+        "choice2": "Britain",
+        "choice3": "Japan",
+        "choice4": "Germany",
+        "answer": 2
+    },
+    {
+        "question": "In the United States, football is called soccer. So what is American football called in the United Kingdom?",
+        "choice1": "Rugby",
+        "choice2": "American football",
+        "choice3": "Handball",
+        "choice4": "Combball",
+        "answer": 2
+    },
+    {
+        "question": "What is the main component of the sun?",
+        "choice1": "Liquid lava",
+        "choice2": "Molten iron",
+        "choice3": "Rock",
+        "choice4": "Gas",
+        "answer": 4
+    },
+    {
+        "question": "How many blue stripes are there on the U.S. flag?",
+        "choice1": "6",
+        "choice2": "7",
+        "choice3": "13",
+        "choice4": "0",
+        "answer": 4
+    },
+    {
+        "question": "What is the name of the company that published the Mario Kart video game?",
+        "choice1": "Nintendo",
+        "choice2": "Electronic Arts (EA)",
+        "choice3": "SEGA",
+        "choice4": "Xbox",
+        "answer": 1
+    },
+    {
+        "question": "What was the first capital of the United States?",
+        "choice1": "Boston",
+        "choice2": "Philadelphia",
+        "choice3": "Richmond",
+        "choice4": "Washington, D.C.",
+        "answer": 2
+    },
+    {
+        "question": "How many eyes does a spider have?",
+        "choice1": "8",
+        "choice2": "9",
+        "choice3": "10",
+        "choice4": "2",
+        "answer": 1
+    },
+    {
+        "question": "What was the name of Harry Potter’s pet owl?",
+        "choice1": "Luna",
+        "choice2": "Dobby",
+        "choice3": "Hedwig",
+        "choice4": "Fluffy",
+        "answer": 3
+    },
+    {
+        "question": "What does the “U” stand for in “UFO”?",
+        "choice1": "Unidentified",
+        "choice2": "Under",
+        "choice3": "United",
+        "choice4": "Unique",
+        "answer": 1
+    }
+]
