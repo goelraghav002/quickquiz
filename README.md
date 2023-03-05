@@ -8,3 +8,6 @@ QuickQuiz is a web application that offers pre-made quizzes on various topics fo
 
 ## Getting Started:
 To get started with QuickQuiz, simply visit the website at <br/> <br/> https://goelraghav002.github.io/quickquiz/ 
+
+## Contributing:
+We welcome contributions to QuickQuiz from the community. To contribute, simply fork the repository, make your changes, and submit a pull request.
